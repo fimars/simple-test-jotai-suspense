@@ -1,0 +1,6 @@
+.magicbooks {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+  column-gap: 1rem;
+}
